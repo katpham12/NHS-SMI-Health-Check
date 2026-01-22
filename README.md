@@ -1,12 +1,15 @@
 # NHS-SMI-Health-Check
 
-bash
+## Project Setup
 
-# In terminal/command prompt:
+Run the following commands in your terminal.
+
+```bash
 git init nhs-smi-health-checks
 cd nhs-smi-health-checks
 
-# Create folder structure:
+#Create folder structure
+
 mkdir data
 mkdir data/raw
 mkdir data/processed
@@ -14,5 +17,3 @@ mkdir sql
 mkdir visualizations
 mkdir documentation
 
-# Create README.md
-touch README.md
