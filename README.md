@@ -77,5 +77,6 @@ The dataset consists of quarterly performance extracts covering **21 reporting p
 *   **Microsoft Excel:** Data cleaning, pivot tables, and exploratory analysis.
 *   **SQL:** Advanced queries for trend analysis and geographic performance metrics.
 *   **Tableau:** Interactive dashboards for executive-level performance monitoring.
+*   **Google AI:** Interactive dashboards for executive-level performance monitoring.
 
-*Created by [Your Name] - Healthcare Business & Strategy Analyst Portfolio*.
+*Created by Kat Schmand - Healthcare Business & Strategy Analyst Portfolio*.
