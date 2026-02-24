@@ -26,6 +26,8 @@ To be counted as a completed physical health check, clinicians must record **bot
 **Overview of Findings**
 National completion rates have demonstrated long-term growth, rising from **32% in 2018/19 to 51% in Q4 2023/24**, though they remain significantly below the 60% mandate. The COVID-19 pandemic caused a severe **18-percentage-point decline** in Q2 2020, resulting in a cumulative care backlog of **180,000 missed checks**. Analysis reveals extreme geographic variation, with a **74-percentage-point performance gap** between the best (89%) and worst (15%) performing areas, alongside a **12-point divide** between urban and rural care delivery.
 
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/4e4d579f-cbfa-49db-b690-43dde2198d34" />
+
 ---
 
 ## **Data Structure & Initial Checks**
