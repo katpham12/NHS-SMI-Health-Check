@@ -15,6 +15,8 @@ This analysis is supported by an interactive Tableau dashboard designed for seni
 
 **[📊 View the Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kat.pham/viz/NHS_17696098251970/Dashboard1)**
 
+<img width="2398" height="1798" alt="Dashboard 1" src="https://github.com/user-attachments/assets/776a876f-d304-4c78-bd76-228ff4d95fb5" />
+
 *The dashboard includes executive KPI cards, national trend lines with COVID-19 annotations, and a geographic performance map of England’s Sub-ICBs.*
 
 ---
