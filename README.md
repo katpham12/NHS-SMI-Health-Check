@@ -54,7 +54,7 @@ While national completion rates grew from **32% in 2018/19 to 51% in Q4 2023/24*
 ---
 
 ## **Technical Summary & Assumptions**
-*   **Tools Used:** Microsoft Excel (Cleaning), SQL (Performance Metrics), Tableau (Visualization).
+*   **Tools Used:** Microsoft Excel (Cleaning), SQL (Performance Metrics), Tableau (Visualization), AI Tools (Claude, NotebookLM)
 *   **Data Structure:** Quarterly extracts covering **21 reporting periods** across **106 Sub-ICBs**.
 *   **Normalization:** Completion rates exceeding 100% (data entry errors) were **normalized to 100%**.
 *   **Exclusion:** Non-reporting Sub-ICBs were excluded from national averages to provide a realistic baseline of active participants.
